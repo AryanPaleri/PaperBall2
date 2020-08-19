@@ -1,1 +1,2 @@
-# PaperBall2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
